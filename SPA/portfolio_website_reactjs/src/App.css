@@ -91,6 +91,7 @@ a
 .subtopic
 {
   margin:10px 10px 30px 10px !important;
+  align-content: left;
 }
 p{
   font-size: var(--fontsize-p);

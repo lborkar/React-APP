@@ -8,10 +8,7 @@ class Home extends Component{
             
             <div>
             <img src={profilepic} className ="profilepic"></img>
-            <p>Hi , my name is LAXMI BORKAR </p>
-               
-               <p>I am currenlty working as DATA ENGINNER at ENVERUS
-            </p>
+            <p>Hi , I am LAXMI BORKAR and I live in Austin, TX</p>           
             </div>
         )
     }
